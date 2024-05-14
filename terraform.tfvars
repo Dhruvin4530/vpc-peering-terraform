@@ -1,0 +1,5 @@
+region             = "us-east-2"
+demo-vpc-a-cidr    = "10.0.0.0/16"
+demo-vpc-b-cidr    = "10.1.0.0/16"
+demo-subnet-a-cidr = "10.0.1.0/24"
+demo-subnet-b-cidr = "10.1.1.0/24"
