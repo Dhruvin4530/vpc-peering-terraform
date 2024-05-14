@@ -1,2 +1,1 @@
-# vpc-peering-terraform
-Create VPC Peering using Terraform
+# Create VPC Peering using Terraform
